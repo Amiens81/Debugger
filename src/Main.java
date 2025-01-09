@@ -1,7 +1,7 @@
 public class Main {
 	public static void main(String[] args) {
         FirstTask();
-	SecondTask();
+		SecondTask();
 	}
 	//todo Первая задача
 public static void FirstTask(){
